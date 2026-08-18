@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lag="pt-BR">
+<head> 
+  <meta charset="UTF-8">
+<title> Minha Página</title>
+</head>
+<body>
+
+<h1>Minha Página Pessoal</h1>
+
+<h2>Sobre mim</h2>
+<p>Olá! Meu nome é Milena e estou aprendendo programação.</p> 
+
+<h2>Meus hobbies</h2>
+
+<ul>
+<li>Dormir</li>
+<li>Assistir filmes</li>
+<li>Ouvir música</li<
+</ul>
+
+<h2>Meu site favorito</h2> 
+<a href="https://www.google.com" target="_blank">
+Acessar o google 
+</a>
+
+</body>
+</html>
